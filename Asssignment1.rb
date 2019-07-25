@@ -10,4 +10,4 @@ end
 @user = User.new
 @user.status = "inactive"
 @user.active?
-@user.inactive
+@user.inactive?
